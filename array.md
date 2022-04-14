@@ -1,3 +1,4 @@
+```java
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         int res = 0;
@@ -10,3 +11,5 @@ class Solution {
         return res;
     }
 }
+```
+
